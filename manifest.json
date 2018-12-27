@@ -1,0 +1,22 @@
+{
+  "short_name": "Can I use",
+  "name": "Can I use...",
+  "lang": "Japanese",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "./index.html",
+  "theme_color": "#48a136",
+  "background_color": "#48a136",
+  "icons": [
+      {
+          "src": "./images/icon_192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+      },
+      {
+          "src": "./images/icon_256x256.png",
+          "sizes": "256x256",
+          "type": "image/png"
+      }
+  ]
+}
